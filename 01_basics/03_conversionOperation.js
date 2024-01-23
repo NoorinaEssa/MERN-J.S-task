@@ -67,3 +67,36 @@ console.log(undefined > 0);
 
 // strick check simply === equal check
 console.log(undefined=== 0);
+
+//gAME COUNTER prefix
+//Reference (non primities)
+
+
+ const scoreValue = 1000.33
+ const isLOGGEDiN = false 
+ const outsideTEMP = null 
+ let useEmail;
+  const id = Symbol(1,2,3)
+  
+
+  const heros = ["Noor", "essa"]
+
+  //curly braces in object{}
+ let myObj = {
+    name : "Noor",
+    age: 23
+  }
+
+  console.log(typeof myfunction)
+
+  // stcak (primitives) , Heap (non primitives)
+
+
+  let myYoutubename = "NoorSoulFULLVoice"
+  let anothername = myYoutubename
+  anothername = "chai aur code"
+  console.log(myYoutubename);
+  console.log(anothername);
+
+  
+
